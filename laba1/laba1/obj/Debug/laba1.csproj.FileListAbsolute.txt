@@ -1,0 +1,11 @@
+C:\Users\Vaken\source\repos\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\Vaken\source\repos\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\Vaken\source\repos\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\Vaken\source\repos\laba1\laba1\obj\Debug\laba1.csproj.AssemblyReference.cache
+C:\Users\Vaken\source\repos\laba1\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\Vaken\source\repos\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Vaken\source\repos\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\Vaken\source\repos\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Vaken\source\repos\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\Vaken\source\repos\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\Vaken\source\repos\laba1\laba1\obj\Debug\laba1.exe.config

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vaken\\source\\repos\\Laba3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{660A94B5-B2F2-41D7-A3A7-49236B95BF9C}|Laba3\\Laba3.csproj|c:\\users\\vaken\\source\\repos\\laba3\\laba3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660A94B5-B2F2-41D7-A3A7-49236B95BF9C}|Laba3\\Laba3.csproj|solutionrelative:laba3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660A94B5-B2F2-41D7-A3A7-49236B95BF9C}|Laba3\\Laba3.csproj|c:\\users\\vaken\\source\\repos\\laba3\\laba3\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660A94B5-B2F2-41D7-A3A7-49236B95BF9C}|Laba3\\Laba3.csproj|solutionrelative:laba3\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660A94B5-B2F2-41D7-A3A7-49236B95BF9C}|Laba3\\Laba3.csproj|c:\\users\\vaken\\source\\repos\\laba3\\laba3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{660A94B5-B2F2-41D7-A3A7-49236B95BF9C}|Laba3\\Laba3.csproj|solutionrelative:laba3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660A94B5-B2F2-41D7-A3A7-49236B95BF9C}|Laba3\\Laba3.csproj|c:\\users\\vaken\\source\\repos\\laba3\\laba3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660A94B5-B2F2-41D7-A3A7-49236B95BF9C}|Laba3\\Laba3.csproj|solutionrelative:laba3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vaken\\source\\repos\\Laba3\\Laba3\\Form1.cs",
+              "RelativeDocumentMoniker": "Laba3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vaken\\source\\repos\\Laba3\\Laba3\\Form1.cs",
+              "RelativeToolTip": "Laba3\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:35:17.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Vaken\\source\\repos\\Laba3\\Laba3\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Laba3\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Vaken\\source\\repos\\Laba3\\Laba3\\Rectangle.cs",
+              "RelativeToolTip": "Laba3\\Rectangle.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA8wCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:21:48.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\Vaken\\source\\repos\\Laba3\\Laba3\\Figure.cs",
+              "RelativeDocumentMoniker": "Laba3\\Figure.cs",
+              "ToolTip": "C:\\Users\\Vaken\\source\\repos\\Laba3\\Laba3\\Figure.cs",
+              "RelativeToolTip": "Laba3\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:21:31.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Vaken\\source\\repos\\Laba3\\Laba3\\Form1.cs",
+              "RelativeDocumentMoniker": "Laba3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vaken\\source\\repos\\Laba3\\Laba3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Laba3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:17:47.905Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
