@@ -16,15 +16,15 @@ namespace Laba3
         {
             InitializeComponent();
         }
-        private bool isDrawing = false;
-        private Rectangle currentRect;
-        private List<Figure> figures = new List<Figure>();
+        private bool isDrawing = false;//рисуем или нет
+        private Rectangle currentRect;//текущий прямоугольник
+        private List<Figure> figures = new List<Figure>();//список прямоугольников
         private void Form1_MouseDown(object sender, MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Left)
             {
-                isDrawing = true;
-                currentRect = new Rectangle(e.Location, e.Location);
+                isDrawing = true;//рисуем
+                currentRect = new Rectangle(e.Location, e.Location);//текущий прямоугольник= прямоугольник с 2 координатами
             }
         }
 
@@ -32,9 +32,8 @@ namespace Laba3
         {
             if (isDrawing)
             {
-                // Обновляем конечную точку
-                currentRect = new Rectangle(currentRect.FirstPoin, e.Location);
-                this.Invalidate(); // Перерисовываем форму
+                currentRect = new Rectangle(currentRect.FirstPoin, e.Location);//обновляем конечную точку, начальная остается
+                this.Invalidate();//прорисовка формы
             }
 
         }
@@ -43,26 +42,23 @@ namespace Laba3
         {
             if (isDrawing && e.Button == MouseButtons.Left)
             {
-                isDrawing = false;
-                figures.Add(currentRect); // Добавляем в коллекцию
-                this.Invalidate();       // Перерисовываем
+                isDrawing = false;//больше не рисуем
+                figures.Add(currentRect); //добавляем в коллекцию
+                this.Invalidate();       //перерисовываем форму
             }
-            figures.Add(currentRect);
-            this.Invalidate();
+            
         }
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
-            // Рисуем все сохранённые фигуры
-            foreach (Figure figure in figures)
+            foreach (Figure figure in figures)//рисуем все сохранённые фигуры
             {
-                figure.Draw(e.Graphics);
+                figure.Draw(e.Graphics);//для каждой фигуры метод дро
             }
 
-            // Рисуем текущий прямоугольник (если он есть)
-            if (isDrawing && currentRect != null)
+            if (isDrawing && currentRect != null)//рисуем текущий прямоугольник (если он есть)
             {
-                currentRect.DrawDash(e.Graphics);
+                currentRect.DrawDash(e.Graphics);//рисуем пунктиром
             }
         }
     }

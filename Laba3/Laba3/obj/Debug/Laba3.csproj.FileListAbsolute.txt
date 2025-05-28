@@ -9,3 +9,14 @@ C:\Users\Vaken\source\repos\Laba3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs
 C:\Users\Vaken\source\repos\Laba3\Laba3\obj\Debug\Laba3.exe
 C:\Users\Vaken\source\repos\Laba3\Laba3\obj\Debug\Laba3.pdb
 C:\Users\Vaken\source\repos\Laba3\Laba3\obj\Debug\Laba3.exe.config
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\bin\Debug\Laba3.exe
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\bin\Debug\Laba3.pdb
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\obj\Debug\Laba3.csproj.AssemblyReference.cache
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\obj\Debug\Laba3.exe.config
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\obj\Debug\Laba3.exe
+C:\Users\Vaken\Desktop\OOP\Laba3\Laba3\obj\Debug\Laba3.pdb
